@@ -21,7 +21,7 @@ public class Main {
         
         double surfaceArea = Calculator.calculateSurfaceArea(radius, height);
 
-        System.out.printf("A henger felszíne: %.2f négyzetegység\n", surfaceArea);
+        System.out.printf("A henger felszíne: %.2f négyzet centiméter\n", surfaceArea);
 
         scanner.close();
     }
