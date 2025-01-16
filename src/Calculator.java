@@ -1,5 +1,5 @@
 /*
-* File: Main.java
+* File: Calculator.java
 * Author: Ács Bence
 * Copyright: 2025, Ács Bence
 * Group: szoft/2/n
